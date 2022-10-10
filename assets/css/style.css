@@ -33,3 +33,10 @@
 img{
     width: 100%;
 }
+
+/* about */
+
+.btn{
+    border: 1px solid white;
+    color: white;
+}
