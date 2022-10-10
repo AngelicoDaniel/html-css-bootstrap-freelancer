@@ -1,3 +1,5 @@
+/* navbar */
+
 .navbar-collapse {
     flex-basis: 100%;
     flex-grow: 0; 
@@ -6,4 +8,16 @@
 
 .nav-bg{
     background-color: #313E51;
+}
+
+
+/* start bootstrap */
+
+.start-bootstrap{
+    background-color: #4BB99E;
+    color: white;
+}
+
+.start-bootstrap img{
+    width: 15%;
 }
