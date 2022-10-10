@@ -1,4 +1,4 @@
-/* navbar */
+redit/* navbar */
 
 .navbar-collapse {
     flex-basis: 100%;
@@ -39,4 +39,10 @@ img{
 .btn{
     border: 1px solid white;
     color: white;
+}
+
+/* credits */
+
+.green-txt{
+    color: #4BB99E;
 }
