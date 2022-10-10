@@ -7,7 +7,7 @@ redit/* navbar */
 }
 
 .nav-bg{
-    background-color: #313E51;
+    background-color: #3A546D
 }
 
 
@@ -55,4 +55,8 @@ img{
     padding:7px;
     margin: 5px;
 
+}
+
+footer{
+    background-color: #2C3E50;
 }
