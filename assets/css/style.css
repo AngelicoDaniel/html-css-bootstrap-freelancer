@@ -46,3 +46,13 @@ img{
 .green-txt{
     color: #4BB99E;
 }
+
+.social{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    padding:7px;
+    margin: 5px;
+
+}
