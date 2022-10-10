@@ -1,4 +1,4 @@
-redit/* navbar */
+/* navbar */
 
 .navbar-collapse {
     flex-basis: 100%;
@@ -11,6 +11,7 @@ redit/* navbar */
 }
 
 
+
 /* start bootstrap */
 
 .start-bootstrap{
@@ -19,7 +20,7 @@ redit/* navbar */
 }
 
 .start-bootstrap img{
-    width: 15%;
+    width: 100%;
 }
 
 .line-sm{
