@@ -137,19 +137,25 @@
             </div>
         </div>
 
-        <div class="col-8 m-auto">
-            <ul class="list-unstyled py-2">
-                <li>Name</li>
-                <li><hr></li>
-                <li>Email Address</li>
-                <li><hr></li>
-                <li>Phone Number</li>
-                <li><hr></li>
-                <li class="mb-5">Message</li>
-                <hr class="mt-5">
-        <button type="button" class="btn btn-send">Send</button>
-            </ul>
-        </div>
+        <form action="">
+            <div class="mb-3">
+                <label for="nome" class="form-label">Nome</label>
+                <input type="text" class="form-control" id="nome" name="nome" placeholder="inserire il nome">
+             </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Email address</label>
+              <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp">
+              <div class="mb-3">
+                <label for="number" class="form-label">Phone Number</label>
+                <input type="password" class="form-control" id="number">
+            </div>
+            </div>
+            <div class="mb-3">
+                <label for="messaggio" class="form-label">Messaggio</label>
+                <textarea class="form-control" id="messaggio" name="messaggio" rows="3"></textarea>
+             </div>
+            <button type="submit" class="btn btn-primary btn-send">Invia</button>
+        </form>
         
 
        </section>

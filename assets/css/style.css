@@ -67,3 +67,10 @@ img{
 footer{
     background-color: #2C3E50;
 }
+
+/* form */
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid lightgray;
+}
